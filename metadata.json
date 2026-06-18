@@ -1,0 +1,6 @@
+{
+  "name": "Ganga Tattoo Atlanta",
+  "description": "An ultra-luxury, custom elite tattoo experience and online appointment booking system based in Atlanta, Georgia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
